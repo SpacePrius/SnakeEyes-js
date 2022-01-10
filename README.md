@@ -1,2 +1,2 @@
-# Snakeyes-js
+# SnakeEyes-js
 Javascript Dice Library
